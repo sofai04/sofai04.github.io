@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+  <a href="IMAGEN1.html">TIBURON</a><br>
+    <a href="IMAGEN2.html">GATO</a><br>
+    <a href="IMAGEN3.html">INDIO</a><br> 
+    <a href="CANCION.html">CANCION</a><br>
     <meta charset="UTF-8">
     <title>Cuestionario: Los Efectos del Uso de la TI</title>
 </head>
